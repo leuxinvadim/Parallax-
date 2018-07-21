@@ -44,6 +44,10 @@ section{
     background-color:#282e34;
     color:#ddd;
 }
+.section-grey{
+    background-color: #9fabab;
+    color:#ddd;
+}
 .ptext{
   position: absolute;  
   top:50%;
